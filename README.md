@@ -1,6 +1,6 @@
 # Frontend-Vue-Nuxt-From-Officiel
 # Un Frontend en nuxt et vue depuis les exemples de la documentation officielle
-# Courrez ces commandes avant de cloner
+# clonez et Courrez ces commandes
 # Installation de node 18
 ## installer nvm (pour windows https://snowpact.com/blog/nvm-guide-d-installation ou linux)
 # sudo apt install curl 
