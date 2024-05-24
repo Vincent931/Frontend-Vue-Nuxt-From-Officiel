@@ -16,7 +16,7 @@
 # sudo apt update
 # sudo apt install npm
 # npx nuxi@latest init <project-name>
-# install router
+# installation du router
 # npm install vue-router@4
 # Lancement serveur développement:
 # npm run dev -- -o
